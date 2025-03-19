@@ -1,0 +1,7 @@
+C:\Users\adars\Downloads\azureassigment\MyAspNetApp\publish\MyAspNetApp.exe
+C:\Users\adars\Downloads\azureassigment\MyAspNetApp\publish\appsettings.Development.json
+C:\Users\adars\Downloads\azureassigment\MyAspNetApp\publish\appsettings.json
+C:\Users\adars\Downloads\azureassigment\MyAspNetApp\publish\MyAspNetApp.dll
+C:\Users\adars\Downloads\azureassigment\MyAspNetApp\publish\MyAspNetApp.deps.json
+C:\Users\adars\Downloads\azureassigment\MyAspNetApp\publish\MyAspNetApp.runtimeconfig.json
+C:\Users\adars\Downloads\azureassigment\MyAspNetApp\publish\MyAspNetApp.pdb
